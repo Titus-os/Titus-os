@@ -3,7 +3,7 @@
 <h2>👨‍💻 I.T. & Cybersecurity Projects:</h2>
 
 - <b>Vulnerability management Projects</b>
-  - [vulnerability management program implementation] (https://github.com/Titus-os/Vulnerability-management-program)
+  -**[vulnerability management program implementation](https://github.com/Titus-os/Vulnerability-management-program)**
 
 
 - <b>osTicket (Help Desk Ticketing System)</b>
