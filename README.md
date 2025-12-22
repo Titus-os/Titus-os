@@ -1,4 +1,4 @@
-<h1> Titus's <a href="https://www.linkedin.com/in/titus-moga">IT and Cybersecurity Project portfolio</a>☺</h1>
+<h1> <a href="https://www.linkedin.com/in/titus-moga">Titus's IT and Cybersecurity Project portfolio</a>☺</h1>
 
 <h2>👨‍💻 I.T. & Cybersecurity Projects:</h2>
 
