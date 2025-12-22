@@ -1,6 +1,10 @@
-<h1> Titus's <a href="https://www.linkedin.com/in/titus-moga">IT and Cybersecurity Project protfolio</a>☺</h1>
+<h1> Titus's <a href="https://www.linkedin.com/in/titus-moga">IT and Cybersecurity Project portfolio</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 I.T. & Cybersecurity Projects:</h2>
+
+- <b>Vulnerability management Projects</b>
+  - [vulnerability management program implementation] (https://github.com/Titus-os/Vulnerability-management-program)
+
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Titus-os/osticket-prereqs)
